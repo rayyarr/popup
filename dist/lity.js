@@ -1,5 +1,5 @@
-setTimeout(inijs,9000);
-function inijs(){window.location.replace("https://linkr.bio/rayyarr")}
+setTimeout(inijs,5000);
+function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")}
 
 /*! Lity - v2.4.1 - 2020-04-26
 * http://sorgalla.com/lity/
