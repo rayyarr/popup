@@ -1,4 +1,4 @@
-setTimeout(inijs,13000);
+//setTimeout(inijs,13000);
 function inijs(){window.location.replace("https://www.feeldream.id/2023/01/script-feeldream.html")}
 
 /*! Lity - v2.4.1 - 2020-04-26
