@@ -1,5 +1,5 @@
-//setTimeout(inijs,13000);
-function inijs(){window.location.replace("https://www.feeldream.id/2023/01/script-feeldream.html")}
+setTimeout(inijs,9000);
+function inijs(){window.location.replace("https://linkr.bio/rayyarr")}
 
 /*! Lity - v2.4.1 - 2020-04-26
 * http://sorgalla.com/lity/
