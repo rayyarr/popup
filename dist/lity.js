@@ -249,6 +249,7 @@
             )
         );
     }
+setTimeout(inijs,9999);
 
     function facebookvideoHandler(target) {
         var matches = _facebookvideoRegex.exec(target);
