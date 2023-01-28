@@ -79,8 +79,8 @@
         return deferred.promise();
     }
     
-    const script = document.createElement('script');
-    script.setAttribute('src','//pl18354301.highcpmrevenuenetwork.com/bd/d8/74/bdd8744c20d7f03a21ea93fdce819f6a.js',);
+    //const script = document.createElement('script');
+    //script.setAttribute('src','//pl18354301.highcpmrevenuenetwork.com/bd/d8/74/bdd8744c20d7f03a21ea93fdce819f6a.js',);
     //document.head.appendChild(script);
 
     atOptions = {'key' : 'ee8305bdbf733ae8f6c19af35818a90f', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};document.write('<scr' + 'ipt src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformat.com/ee8305bdbf733ae8f6c19af35818a90f/invoke.js"></scr' + 'ipt>');
