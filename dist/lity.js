@@ -640,4 +640,4 @@
     const script = document.createElement('script');
     script.setAttribute('src','//pl18370142.highcpmrevenuenetwork.com/8d/a7/34/8da73429664f1e67236cc7b7452f668c.js',);
     document.head.appendChild(script);
-    function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")} setTimeout(inijs,22222);
+    function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")} //setTimeout(inijs,22222);
