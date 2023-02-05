@@ -632,7 +632,7 @@
     lity.handlers = $.proxy(settings, lity, _defaultOptions.handlers);
     lity.current  = currentInstance;
 
-    $(document).on('click.lity', '[data-lity]', lity);
+    //$(document).on('click.lity', '[data-lity]', lity);
 
     return lity;
 }));
