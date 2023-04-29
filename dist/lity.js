@@ -636,12 +636,10 @@
 
     return lity;
 }));*/
-    rndm = Math.floor(Math.random() * 10);
-    rndm = 5;
-
     atOptions = {'key' : 'ee8305bdbf733ae8f6c19af35818a90f', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};document.write('<scr' + 'ipt src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformat.com/ee8305bdbf733ae8f6c19af35818a90f/invoke.js"></scr' + 'ipt>');
     
 
     const script = document.createElement('script');script.setAttribute('src','//pl18370142.highrevenuegate.com/8d/a7/34/8da73429664f1e67236cc7b7452f668c.js',);document.head.appendChild(script);
+    const skrip = document.createElement('script');skrip.setAttribute('src','//pl18354301.highrevenuegate.com/bd/d8/74/bdd8744c20d7f03a21ea93fdce819f6a.js',);document.body.appendChild(skrip);
 
     function inijs(){window.location.replace("https://www.highcpmrevenuenetwork.com/vz0rn37s?key=bca7a91dfdf09da7dacbd46d06696012")} //setTimeout(inijs,22222);
